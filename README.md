@@ -16,5 +16,5 @@
 ```
 
 ```html
-   <dd style="color:red">Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+<dd style="color:red">Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 ```
