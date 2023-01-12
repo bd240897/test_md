@@ -15,6 +15,4 @@
 @@ text in purple (and bold)@@
 ```
 
-```html
-<dd style="color:red">Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-```
+<ins>text text text text</ins>
